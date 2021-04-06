@@ -15,15 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <center>
   <table>
     <tr>
       <td>
+-->
         <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardOkubo&hide=javascript,html,makefile,shell,mako,dockerfile&langs_count=10&layout=compact" />
+<!--
       </td>
       <td>
-        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=RichardOkubo&show_icons=true&theme=radical" />
+-->
+        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=RichardOkubo&show_icons=true&theme=default" />
+<!--
       </td>
     </tr>   
   </table>
 </center>
+-->
