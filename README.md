@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <center>
-  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardOkubo&hide=javascript,html,makefile,shell,mako,dockerfile&langs_count=10&layout=compact" />
-  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=RichardOkubo&show_icons=true&theme=default" />
+  <table>
+    <tr>
+      <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardOkubo&hide=javascript,html,makefile,shell,mako,dockerfile&langs_count=10&layout=compact" />
+      <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=RichardOkubo&show_icons=true&theme=default" />
+    </tr>
+  </table>
 </center>
