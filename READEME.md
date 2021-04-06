@@ -1,2 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardOkubo&hide=javascript,html,makefile,shell,mako,dockerfile&langs_count=10&layout=compact](https://github.com/anuraghazra/github-readme-stats)
-
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardOkubo&hide=javascript,html,makefile,shell,mako,dockerfile&langs_count=10&layout=compact" />
