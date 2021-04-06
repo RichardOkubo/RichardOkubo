@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
+
 <center>
+<!--
   <table>
     <tr>
       <td>
@@ -31,5 +32,5 @@ Here are some ideas to get you started:
       </td>
     </tr>   
   </table>
-</center>
 -->
+</center>
