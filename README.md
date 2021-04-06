@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardOkubo&hide=javascript,html,makefile,shell,mako,dockerfile&langs_count=10&layout=compact" />
-
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=RichardOkubo&show_icons=true&theme=radical" />
+<center>
+  <table>
+    <tr>
+      <td>
+        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardOkubo&hide=javascript,html,makefile,shell,mako,dockerfile&langs_count=10&layout=compact" />
+      </td>
+      <td>
+        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=RichardOkubo&show_icons=true&theme=radical" />
+      </td>
+    </tr>   
+  </table>
+</center>
