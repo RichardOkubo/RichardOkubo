@@ -17,10 +17,10 @@ Here are some ideas to get you started:
   <table>
     <tr>
       <td>
-        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardOkubo&hide=jupyter%20notebook,javascript,css,gherkin,html,makefile,shell,mako,batchfile,dockerfile&langs_count=10&layout=compact" />
+        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardOkubo&hide=jupyter%20notebook,javascript,css,gherkin,html,makefile,shell,mako,batchfile,dockerfile&langs_count=10&layout=compact&theme=tokyonight" />
       </td>
       <td>
-        <img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=RichardOkubo&show_icons=true&theme=default" />
+        <img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=RichardOkubo&show_icons=true&theme=tokyonight" />
       </td>
     </tr>
   </table>
