@@ -1,14 +1,10 @@
 <h3 align="left">Languages, Libraries & Frameworks:</h3>
 <p align="left"> 
-[![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=306998")](https://github.com/RichardOkubo/PythonScripts)
+
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=306998")
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=00a4ef)
-![Editor](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0078d7)
-![Version Control](https://img.shields.io/badge/Version_Control-GitHub-informational?style=flat&logo=github&logoColor=ffffff&color=ffffff)
-
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=ffffff)
 
 ### Connect with me:
 
