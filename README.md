@@ -1,4 +1,4 @@
-```
+```html
 ### GitHub Stats:
 <details>
   <summary>
@@ -25,3 +25,4 @@
   </p>
 </details>
 ```
+
