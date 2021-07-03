@@ -5,7 +5,7 @@
     <a>📊</a> Most Used Languages
   </summary>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardOkubo&hide=jupyter%20notebook,C,javascript,css,gherkin,html,makefile,shell,mako,batchfile,dockerfile&langs_count=10&layout=compact&theme=material-palenight" alt="Most Used Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardOkubo&hide=jupyter%20notebook,C,javascript,css,gherkin,html,makefile,shell,mako,batchfile,dockerfile&langs_count=10&layout=compact&theme=vue" alt="Most Used Stats"/>
   </p>
 </details>
 <details>
@@ -13,7 +13,7 @@
     <a>⭐</a> Commits
   </summary>
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RichardOkubo&show_icons=true&theme=material-palenight" alt="GitHub Stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RichardOkubo&show_icons=true&theme=vue" alt="GitHub Stats"/>
   </p>
 </details>
 <details>
@@ -21,9 +21,10 @@
     <a>🔥</a> Streak
   </summary>
   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RichardOkubo&theme=material-palenight" alt="GitHub Stats"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RichardOkubo&theme=vue" alt="GitHub Stats"/>
   </p>
 </details>
+
 
 
 ### Connect with me
@@ -40,5 +41,5 @@
 
 ### Tools
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)![Virtual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![Virtual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)![SQLite3](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)![Virtual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![Virtual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)![SQLite3](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
