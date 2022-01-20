@@ -5,7 +5,7 @@
     <a>📊</a> Most Used Languages
   </summary>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardOkubo&hide=jupyter%20notebook,Common Lisp,Objective-C,css,gherkin,html,makefile,shell,mako,batchfile,dockerfile&langs_count=10&layout=compact&theme=vue" alt="Most Used Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardOkubo&hide=jupyter%20notebook,Common Lisp,Objective-C,css,gherkin,html,makefile,shell,mako,C,Ruby,Perl,Prolog,PLpgSQL,batchfile,dockerfile&langs_count=10&layout=compact&theme=vue" alt="Most Used Stats"/>
   </p>
 </details>
 <details>
