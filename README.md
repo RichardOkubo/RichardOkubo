@@ -7,7 +7,7 @@
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardOkubo&hide=jupyter%20notebook,Lisp,Objective-C,css,gherkin,html,makefile,shell,mako,C,Ruby,Perl,Hy,Prolog,PLpgSQL,batchfile,dockerfile&langs_count=5&layout=compact&theme=vue&exclude_repo=Studies-CL" alt="Most Used Stats"/>
   </p>
-</details>
+</details>'
 <details>
   <summary>
     <a>⭐</a> Commits
@@ -29,7 +29,7 @@
 
 ### Connect with me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/richard-okubo/)](https://www.linkedin.com/in/richard-okubo/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:richardlopesneves@gmail.com)](mailto:richardlopesneves@gmail.com)[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/richardokubo)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/richard-okubo/)](https://www.linkedin.com/in/richard-okubo/)
 
 
 
